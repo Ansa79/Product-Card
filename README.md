@@ -12,6 +12,8 @@ A clean and modern product card layout that displays:
 - Price
 - Button (like "Add to Cart" or "Buy Now")
 
+Watch Project Demo Video on YouTub: click here (https://youtu.be/DhqjiSITINY?si=kfrRlnEF55xyih15)
+
 ## 🔧 Technologies Used
 
 - HTML5
